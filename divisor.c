@@ -10,7 +10,7 @@ for(i=0;i<n;i++)
 }
 for(i=0;i<n;i++)
 {
-    for(j=1;j<=a[i];j++)
+    for(j=0;j<=a[i];j++)
     {
         if(a[i]%j==0)
         {
