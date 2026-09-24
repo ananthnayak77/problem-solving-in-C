@@ -30,7 +30,7 @@ int main() {
     
     printf("\nSTUDENTS_MARK (Roll No and Marks):\n");
     for(i = 0; i < N; i++) {
-        printf("%d and the %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
+        printf("%d and  %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
     }
     return 0;
 }
