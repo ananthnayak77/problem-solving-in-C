@@ -32,7 +32,7 @@ int main() {
     for(i = 0; i < N; i++) {
 
         printf("%d this doesnot makes any sense %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
-        printf("%d and the crazy. thing is that  %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
+        printf("%d and the craz  %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
     }
     return 0;
 }
