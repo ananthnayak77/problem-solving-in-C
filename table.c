@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int N, i;
+    int N
 
     printf("Enter number of students in the class so that we can commute the data : ");
     scanf("%d", &N);
@@ -32,7 +32,7 @@ int main() {
     for(i = 0; i < N; i++) {
 
         printf("%d this doesnot makes any sense %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
-        printf("%d and th  %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
+        printf("%d  %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
     }
     return 0;
 }
