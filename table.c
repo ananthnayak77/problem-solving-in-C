@@ -31,8 +31,8 @@ int main() {
     printf("\nSTUDENTS_MARK (Roll No and Marks):\n");
     for(i = 0; i < N; i++) {
 
-        printf("%d hi bro whatsupp dude and what are u doing %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
-        printf("%d hi bro WhatsApp matte namskara bangaluru matte %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
+        printf("%d hi bro whatsupp dude and what %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
+        printf("%d hi bro WhatsApp matte namskara  %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
     }
     return 0;
 }
