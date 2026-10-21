@@ -32,7 +32,7 @@ int main() {
     for(i = 0; i < N; i++) {
 
         printf("%d hi bro WhatsApp nothing much bro %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
-        printf("%d matte enta vishesha macha hma enta ante  %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
+        printf("%d matte enta vishesha macha hma en  %d\n", STUDENTS_MARK[0][i], STUDENTS_MARK[1][i]);
     }
     return 0;
 }
