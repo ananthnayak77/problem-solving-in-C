@@ -1,4 +1,4 @@
-#include <stdio.h>
+hs#include <stdio.h>
 
 int main() {
     int N
