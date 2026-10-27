@@ -1,4 +1,4 @@
-jshs#include <stdio.h>
+jsjshs#include <stdio.h>
 
 int main() {
     int N
