@@ -1,4 +1,4 @@
-#include <stdio.h>
+gg#include <stdio.h>
 
 int main() {
     int N
